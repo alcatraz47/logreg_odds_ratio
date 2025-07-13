@@ -7,6 +7,9 @@ Logistic regression and odds ratio using the example of COVID19 data
  ## Branch to Use:
  Main
 
+ ## Report Whereabouts:
+ The rerport can be found inside *report* folder
+
 ## Installation
 - Install the packages with your python3-pip packages
 - Run the following command in the terminal:
